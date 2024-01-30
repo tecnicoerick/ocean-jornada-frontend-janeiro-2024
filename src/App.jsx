@@ -3,17 +3,17 @@ import Card from './componants/Card/Card'
 
 function App() {
   const item1 = {
-    name: 'Rick Sanchez',
+    name: 'Rick Sancher',
     image: 'https://rickandmortyapi.com/api/character/avatar/1.jpeg'
   }
 
   const item2 = {
-    name: 'Rick Sanchez',
+    name: 'Morty Smith',
     image: 'https://rickandmortyapi.com/api/character/avatar/2.jpeg'
   }
 
   const item3 = {
-    name: 'Rick Sanchez',
+    name: 'Summer Smith',
     image: 'https://rickandmortyapi.com/api/character/avatar/3.jpeg'
   }
 
